@@ -348,15 +348,18 @@ ul li {
   height: 100vh;
 }
 .site-header .intro h2 {
+  background-color: rgba(0, 0, 0, 0.5);
   margin-top: 0px;
   font-size: 25px;
   font-weight: 300;
 }
 .site-header .intro h1 {
+  background-color: rgba(0, 0, 0, 0.5);
   margin-top: 0px;
   font-size: 30px;
 }
 .site-header .intro p {
+  background-color: rgba(0, 0, 0, 0.5);
   font-size: 20px;
   margin-bottom: 10px;
   font-weight: 300;
