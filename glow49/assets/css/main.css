@@ -454,6 +454,62 @@ ul li {
   border: 1px solid #fff;
 }
 
+.schedule-box-ws-phomo {
+  position: relative;
+  background-color: rgba(192, 202, 199, 0.914);
+  color: #000;
+  text-align: center;
+  padding: 50px 0;
+  margin: 25px 0 0;
+}
+.schedule-box-ws-phomo::before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  bottom: 5px;
+  left: 5px;
+  border: 1px solid #fff;
+}
+
+.schedule-box-ws-ctrl {
+  position: relative;
+  background-color: rgba(255, 220, 191, 0.914);
+  color: #000;
+  text-align: center;
+  padding: 50px 0;
+  margin: 25px 0 0;
+}
+.schedule-box-ws-ctrl::before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  bottom: 5px;
+  left: 5px;
+  border: 1px solid #fff;
+}
+
+.schedule-box-ws-hypa {
+  position: relative;
+  background-color: rgba(255, 211, 161, 0.914);
+  color: #000;
+  text-align: center;
+  padding: 50px 0;
+  margin: 25px 0 0;
+}
+.schedule-box-ws-hypa::before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  bottom: 5px;
+  left: 5px;
+  border: 1px solid #fff;
+}
+
+
+
 /* 
  * 6.7 Section: Schedule
  */
