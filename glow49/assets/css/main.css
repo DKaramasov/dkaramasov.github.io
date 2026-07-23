@@ -265,6 +265,7 @@ ul li {
 .navbar-custom .navbar-nav li {
   margin: 0;
 }
+/*below: color=font color*/
 .navbar-custom .navbar-nav > li > a {
   color: #000;
   text-transform: uppercase;
@@ -273,7 +274,8 @@ ul li {
   border-bottom: 1px solid transparent;
 }
 .navbar-custom .navbar-nav > li > a:focus, .navbar-custom .navbar-nav > li > a:hover {
-  background-color: transparent;
+/*  background-color: transparent;*/
+background-color: #fff;
   border-color: rgba(255, 255, 255, 0.5);
 }
 .navbar-custom .navbar-nav > .active > a {
