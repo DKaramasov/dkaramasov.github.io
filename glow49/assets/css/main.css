@@ -60,6 +60,11 @@ ul li {
   font-family: "Ionicons";
 }
 
+.ordinal {
+  text-transform: none;
+}
+
+
 .social-block {
   list-style-type: none;
   padding: 0;
